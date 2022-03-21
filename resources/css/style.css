@@ -1,0 +1,11 @@
+* {
+    font-family: fantasy, Arial, Helvetica, sans-serif;
+}
+.background-navbar {
+    background-color: #c0c0c0;
+    font-size: larger;
+}
+
+.letters {
+    color: white;
+}
